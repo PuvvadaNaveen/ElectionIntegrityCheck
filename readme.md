@@ -1,20 +1,32 @@
 # Election Integrity Check
-### Design Data Intensive Systems - Section 02
+### Course Number:44-564  Design Data Intensive Systems - Section 02
 ## Project Group - 2B
-  ### Pair 2-3:
+  ## Pair 2-3:
+  
   Sandeep Kumar Dara
-  Email: S42
+  Email: S528737@nwmissouri.edu
+  Semester:04
   Akshay Reddy Vontari
-  ### Pair 2-4:
+  Email: S528772@nwmissouri.edu
+  Semester:04
+  ## Pair 2-4:
+  
   Naveen Kumar Puvvada
+  Email: S530483@nwmissouri.edu
+  Semester:04
   Raghavender Jarupati
+  Email: S528738@nwmissouri.edu
+  Semester:04
 ## Links:
 Link for repository: https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/overview
-link for Issue Tracker:
+
+links for Issue Tracker:
+
 1. https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/issues/1/issue-1
 2. https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/issues/2/issue-2
 3. https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/issues/3/issue-3
 4. https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/issues/4/issue-4
+
 ## Introduction:
 The Israeli election dataset contains over 10,000 entries in each year i.e., 2013 and 2015. The data also provides the results by voting booths but not with the settlement and the number of registered voters polled for a party at particular booth. The first seven column contains the details of each booth and settlement and remaining has the number of votes received by the party at each polling booth.
 ## DataSource:
