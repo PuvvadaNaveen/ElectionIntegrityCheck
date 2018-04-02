@@ -5,21 +5,21 @@
   ### Pair 2-3:
   
   1. Sandeep Kumar Dara
-     Email: S528737@nwmissouri.edu
-     Semester:04
+     * Email: S528737@nwmissouri.edu
+     * Semester:04
   
   2. Akshay Reddy Vontari
-     Email: S528772@nwmissouri.edu
-     Semester:04
+     * Email: S528772@nwmissouri.edu
+     * Semester:04
   
   ### Pair 2-4:
   
   1. Naveen Kumar Puvvada
-     Email: S530483@nwmissouri.edu
-     Semester:04
+     * Email: S530483@nwmissouri.edu
+     * Semester:02
   2. Raghavender Jarupati
-     Email: S528738@nwmissouri.edu
-     Semester:04
+     * Email: S528738@nwmissouri.edu
+     * Semester:04
 ## Links:
 Link for repository: https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/overview
 
