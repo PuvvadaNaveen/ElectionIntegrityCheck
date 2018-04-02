@@ -32,7 +32,7 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
     ABU JUWEI'ID 547
   3.Highest  number of registered_voters in a settlement in 2015 is 638
   4.Python
-  5.Pie chart
+  5.Pie chart 
 
 
 2.Average number of votes for a settlement_name?
