@@ -1,22 +1,25 @@
 # Election Integrity Check
-### Course Number:44-564  Design Data Intensive Systems - Section 02
+### Course Number:44-564  
+### Design Data Intensive Systems - Section 02
 ## Project Group - 2B
-  ## Pair 2-3:
+  ### Pair 2-3:
   
-  Sandeep Kumar Dara
-  Email: S528737@nwmissouri.edu
-  Semester:04
-  Akshay Reddy Vontari
-  Email: S528772@nwmissouri.edu
-  Semester:04
-  ## Pair 2-4:
+  1. Sandeep Kumar Dara
+     Email: S528737@nwmissouri.edu
+     Semester:04
   
-  Naveen Kumar Puvvada
-  Email: S530483@nwmissouri.edu
-  Semester:04
-  Raghavender Jarupati
-  Email: S528738@nwmissouri.edu
-  Semester:04
+  2. Akshay Reddy Vontari
+     Email: S528772@nwmissouri.edu
+     Semester:04
+  
+  ### Pair 2-4:
+  
+  1. Naveen Kumar Puvvada
+     Email: S530483@nwmissouri.edu
+     Semester:04
+  2. Raghavender Jarupati
+     Email: S528738@nwmissouri.edu
+     Semester:04
 ## Links:
 Link for repository: https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/overview
 
