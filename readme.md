@@ -43,14 +43,21 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
   4. Veracity: the data provided look trustworthy with the genuine and accurate figures.
   5. Value: With the provided data we can analyze who has got highest number of votes and the lowest number of numbers with that we extract the objectives of the election.
 ## Big Data Question and Solutions:
-    1.For each settlement_name in 2015, what are the highest registered_votes?
+    1.For each settlement_name in 2013, what are the total registered_votes?
       1.àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	1	425	66	5	61	0	4	0	0	0	0	49	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	4
         àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	2	638	145	1	144	0	2	0	0	0	0	120	0	0	1	1	0	1	0	0	0	0	2	0	0	0	1	0	0	16
         àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	3	547	102	1	101	0	2	0	0	0	0	73	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	19
-      2.ABU JUWEI'ID 425
-      ABU JUWEI'ID 638
-      ABU JUWEI'ID 547
-      3.Highest  number of registered_voters in a settlement in 2015 is 638
+        ......
+      2.A'SAM	546
+        A'SAM	565
+        A'SAM	585
+        A'SAM	621....
+      3.total  number of registered_voters in each settlement in 2013 is
+          A'SAM	3611
+          ABBIRIM	162
+          ABU  ABDUN	106
+          ABU GHOSH	3889
+          ABU JUWEI'ID	1443...
       4.Python
       5.Pie chart 
 
