@@ -2,7 +2,7 @@
 ### Course Number:44-564  
 ### Design Data Intensive Systems - Section 02
 ## Project Group - 2B
-  ### Pair 2-3:
+  * Pair 2-3:
   
   1. Sandeep Kumar Dara
      * Email: S528737@nwmissouri.edu
@@ -12,7 +12,7 @@
      * Email: S528772@nwmissouri.edu
      * Semester:04
   
-  ### Pair 2-4:
+  * Pair 2-4:
   
   1. Naveen Kumar Puvvada
      * Email: S530483@nwmissouri.edu
@@ -69,7 +69,7 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
       4.Python
       5.Bar Chart
  
-    3.For each settlement_name in 2013, which party got lowest number of votes?
+    3.For each settlement_name in 2013, calculate lowest number of votes?
       1.àáå âåù	472	ABU GHOSH	1	725	352	13	339	1	1	116	0	1	0	0	22	0	7	0	0	1	0	0	3	23	0	15	16	0	1	1	1	0	88	0	30	1	4	0	7
         àáå âåù	472	ABU GHOSH	2	670	329	7	322	1	1	119	0	1	0	0	32	0	3	0	0	0	0	0	2	26	0	4	12	0	0	0	0	0	110	0	8	2	0	1	0
         àáå âåù	472	ABU GHOSH	3	704	345	20	325	2	1	111	0	1	0	0	6	2	2	0	0	0	0	1	1	22	0	29	11	0	0	0	2	0	124	1	5	0	1	0	3
