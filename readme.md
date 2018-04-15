@@ -2,7 +2,7 @@
 ### Course Number:44-564  
 ### Design Data Intensive Systems - Section 02
 ## Project Group - 2B
-  ### Pair 2-3:
+  * Pair 2-3:
   
   1. Sandeep Kumar Dara
      * Email: S528737@nwmissouri.edu
@@ -12,7 +12,7 @@
      * Email: S528772@nwmissouri.edu
      * Semester:04
   
-  ### Pair 2-4:
+  * Pair 2-4:
   
   1. Naveen Kumar Puvvada
      * Email: S530483@nwmissouri.edu
