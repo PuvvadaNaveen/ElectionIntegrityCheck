@@ -69,7 +69,7 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
       3.Reducer Output: ABU JUWEI'ID,108.....
       4.Language: Python
       5.Chart: Bar Chart
-      ![Average Votes.png](https://bitbucket.org/repo/oLnnya5/images/823930845-Average%20Votes.png)
+      ![Average Votes.png](https://bitbucket.org/repo/oLnnya5/images/4293812704-Average%20Votes.png)
  
     3.For each settlement_name in 2013, calculate lowest number of votes?
       1.Mapper Input: àáå âåù	472	ABU GHOSH	1	725	352	13	339	1	1	116	0	1	0	0	22	0	7	0	0	1	0	0	3	23	0	15	16	0	1	1	1	0	88	0	30	1	4	0	7
