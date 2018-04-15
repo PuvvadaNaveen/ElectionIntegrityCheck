@@ -62,7 +62,7 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
       5.Chart: Pie chart 
 
 
-    **2.For each settlement_name, what is the average number of votes ?**
+  **2.For each settlement_name, what is the average number of votes ?**
       1.Mapper Input: àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	1	690	118	8	110	0	0	3	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	5	0	0	0	0	0	0	94	1	3	0	0	0	2......
       2.Mapper Output: ABU JUWEI'ID	118
                        ABU JUWEI'ID	99....
