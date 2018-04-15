@@ -43,15 +43,16 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
   4. Veracity: the data provided look trustworthy with the genuine and accurate figures.
   5. Value: With the provided data we can analyze who has got highest number of votes and the lowest number of numbers with that we extract the objectives of the election.
 ## Big Data Question and Solutions:
-  1.For each settlement_name in 2013, what are the total registered_votes?  
-      1.Mapper Input: àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	1	425	66	5	61	0	4	0	0	0	0	49	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	4  
+  **1.For each settlement_name in 2013, what are the total registered_votes?**    
+      1.Mapper Input:  
+        àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	1	425	66	5	61	0	4	0	0	0	0	49	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	4  
         àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	2	638	145	1	144	0	2	0	0	0	0	120	0	0	1	1	0	1	0	0	0	0	2	0	0	0	1	0	0	16  
         àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	3	547	102	1	101	0	2	0	0	0	0	73	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	19  
-        ......  
+        ......    
       2.Mapper Output: A'SAM	546  
-        A'SAM	565  
-        A'SAM	585  
-        A'SAM	621....  
+                       A'SAM	565  
+                       A'SAM	585  
+                       A'SAM	621....  
       3.Reducer Output: total  number of registered_voters in each settlement in 2013 is  
           A'SAM	3611  
           ABBIRIM	162  
@@ -62,7 +63,7 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
       5.Chart: Pie chart   
 
 
-  2.For each settlement_name, what is the average number of votes ?  
+  **2.For each settlement_name, what is the average number of votes ?**  
       1.Mapper Input: àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	1	690	118	8	110	0	0	3	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	5	0	0	0	0	0	0	94	1	3	0	0	0	2......  
       2.Mapper Output: ABU JUWEI'ID	118  
                        ABU JUWEI'ID	99....  
@@ -72,8 +73,9 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
       ![Average Votes.png](https://bitbucket.org/repo/oLnnya5/images/1917096981-Average%20Votes.png)   
       
       
-  3.For each settlement_name in 2013, calculate lowest number of votes?  
-      1.Mapper Input: àáå âåù	472	ABU GHOSH	1	725	352	13	339	1	1	116	0	1	0	0	22	0	7	0	0	1	0	0	3	23	0	15	16	0	1	1	1	0	88	0	30	1	4	0	7  
+  **3.For each settlement_name in 2013, calculate lowest number of votes?**  
+      1.Mapper Input:  
+        àáå âåù	472	ABU GHOSH	1	725	352	13	339	1	1	116	0	1	0	0	22	0	7	0	0	1	0	0	3	23	0	15	16	0	1	1	1	0	88	0	30	1	4	0	7  
         àáå âåù	472	ABU GHOSH	2	670	329	7	322	1	1	119	0	1	0	0	32	0	3	0	0	0	0	0	2	26	0	4	12	0	0	0	0	0	110	0	8	2	0	1	0  
         àáå âåù	472	ABU GHOSH	3	704	345	20	325	2	1	111	0	1	0	0	6	2	2	0	0	0	0	1	1	22	0	29	11	0	0	0	2	0	124	1	5	0	1	0	3  
         àáå âåù	472	ABU GHOSH	4	667	342	19	323	0	1	131	0	0	0	1	6	0	12	0	0	1	0	2	1	20	0	13	6	0	2	0	1	1	94	0	26	0	0	1	4  
@@ -88,8 +90,9 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
       5.Chart: Sorted Bar Chart  
   
   
-  4.For each settlement_name,what is the average number of bad votes in 2013 israeli election?   
-      1.Mapper Input: àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	1	690	118	8	110	0	0	3	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	5	0	0	0	0	0	0	94	1	3	0	0	0	2  
+  **4.For each settlement_name,what is the average number of bad votes in 2013 israeli election?**   
+      1.Mapper Input:  
+        àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	1	690	118	8	110	0	0	3	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	5	0	0	0	0	0	0	94	1	3	0	0	0	2  
         àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	2	753	99	3	96	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	83	0	1	0	0	0	0  
         àáå âåù	472	ABU GHOSH	1	725	352	13	339	1	1	116	0	1	0	0	22	0	7	0	0	1	0	0	3	23	0	15	16	0	1	1	1	0	88	0	30	1	4	0	7  
         àáå âåù	472	ABU GHOSH	2	670	329	7	322	1	1	119	0	1	0	0	32	0	3	0	0	0	0	0	2	26	0	4	12	0	0	0	0	0	110	0	8	2	0	1	0  
