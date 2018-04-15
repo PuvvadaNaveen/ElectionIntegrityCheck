@@ -18,5 +18,8 @@ for line in s:
     value += int(bad_votes)
     count+=1
     averagevalue = value/count
+s.close()
+r.close()
+
     
 
