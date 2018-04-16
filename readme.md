@@ -63,7 +63,7 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         ABU JUWEI'ID	1443...  
       4.Language: Python  
       5.Chart: Pie chart  
-       ![Registered_votes.png](https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/src/db05fa007a4dc0c0564de9acda73a2e6a7eefbc2/Images/Registered_votes.png?at=master)
+       ![Registered_votes.png](https://bitbucket.org/repo/oLnnya5/images/3611896873-Registered_votes.png)
       
 
 
@@ -73,6 +73,7 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
       2.Mapper Output: 
         ABU JUWEI'ID	118  
         ABU JUWEI'ID	99....  
+        ![Average Votes mapper output.PNG](https://bitbucket.org/repo/oLnnya5/images/472197307-Average%20Votes%20mapper%20output.PNG)  
       3.Reducer Output: 
         ABU JUWEI'ID,108.....  
         ![Average Votes Output.PNG](https://bitbucket.org/repo/oLnnya5/images/1826388487-Average%20Votes%20Output.PNG)  
@@ -117,4 +118,4 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         [![reducer.png](https://s7.postimg.cc/nwi6r36sr/reducer.png)](https://postimg.cc/image/pob5lzq5j/)
       4.Language: Python  
       5.Chart: Line chart
-	![bad_Votes.png](https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/src/db05fa007a4dc0c0564de9acda73a2e6a7eefbc2/Images/Bad_votes.png?at=master&fileviewer=file-view-default) 
+	![Bad_votes.png](https://bitbucket.org/repo/oLnnya5/images/511561889-Bad_votes.png)
