@@ -7,19 +7,25 @@
   1. Sandeep Kumar Dara
      * Email: S528737@nwmissouri.edu
      * Semester:04
+     * Folder: election_badvotes
   
   2. Akshay Reddy Vontari
      * Email: S528772@nwmissouri.edu
      * Semester:04
+     * Folder: election_registered_votes
   
   * Pair 2-4:
   
   1. Naveen Kumar Puvvada
      * Email: S530483@nwmissouri.edu
      * Semester:02
+     * Folder: election_votes
+     
   2. Raghavender Jarupati
      * Email: S528738@nwmissouri.edu
      * Semester:04
+     * Folder: election_proper_votes_jarupati
+     
 ## Links:
 Link for repository: https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/overview
 
@@ -54,6 +60,7 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         A'SAM	565  
         A'SAM	585  
         A'SAM	621....  
+        ![mapper_total_registered_votes.PNG](https://bitbucket.org/repo/oLnnya5/images/1610647123-mapper_total_registered_votes.PNG)  
       3.Reducer Output:  
         total  number of registered_voters in each settlement in 2013 is  
         A'SAM	3611  
@@ -61,8 +68,9 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         ABU  ABDUN	106  
         ABU GHOSH	3889    
         ABU JUWEI'ID	1443...  
+        ![reducer_total_registered_votes.PNG](https://bitbucket.org/repo/oLnnya5/images/1357987531-reducer_total_registered_votes.PNG)  
       4.Language: Python  
-      5.Chart: Pie chart  
+      5.Chart: Line chart  
        ![Registered_votes.png](https://bitbucket.org/repo/oLnnya5/images/3611896873-Registered_votes.png)
       
 
@@ -90,11 +98,12 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         àáå âåù	472	ABU GHOSH	4	667	342	19	323	0	1	131	0	0	0	1	6	0	12	0	0	1	0	2	1	20	0	13	6	0	2	0	1	1	94	0	26	0	0	1	4  
         àáå âåù	472	ABU GHOSH	5	588	237	11	226	0	1	75	0	0	0	0	4	0	2	0	0	0	0	0	0	13	0	12	14	0	0	1	0	0	73	0	26	0	1	1	3  
         àáå âåù	472	ABU GHOSH	6	535	239	9	230	0	2	92	0	1	0	0	29	0	5	0	0	0	0	0	2	14	0	8	4	0	0	0	0	0	58	0	11	1	1	0	2 
-      2.Mapper Output: Ale Yarok 4  
+      2.Mapper Output:  
+        Ale Yarok 4  
         Am Shalem  1  
           ......  
         Yesh Atid 14  
-      3.Reducer Output: 
+      3.Reducer Output:  
         Moreshet Avot,Leader, Kalkala, Eretz Hadasha are the parties got lowest number of votes in ABU GHOSH settlement in 2013  
       4.Language: Python  
       5.Chart: Sorted Bar Chart  
@@ -110,12 +119,21 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         ...............................  
         úøàáéï à-öàðò(éùå	1346	TARABIN AS-SANI	1	154	54	1	53	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	3	1	0	0	0	0	0	9	0	32	0	0	2	1  
         úøåí	778	TARUM	1	401	306	2	304	1	4	0	0	0	3	1	0	0	5	0	0	3	3	17	101	14	0	88	1	0	0	0	6	0	0	0	45	0	5	1	6  
-      2.Mapper Output: 
-        ABU JUWEI'ID	8 ...
+      2.Mapper Output:  
+        ABU JUWEI'ID	8 ...  
 	[![mapper.png](https://s7.postimg.cc/546bnhn97/mapper.png)](https://postimg.cc/image/lrxtpzi0n/)
-      3.Reducer Output: 
-	A'SAM	4
+      3.Reducer Output:  
+	    A'SAM	4  
         [![reducer.png](https://s7.postimg.cc/nwi6r36sr/reducer.png)](https://postimg.cc/image/pob5lzq5j/)
       4.Language: Python  
-      5.Chart: Line chart
+      5.Chart: Line chart  
 	![Bad_votes.png](https://bitbucket.org/repo/oLnnya5/images/511561889-Bad_votes.png)
+    
+  **User Instructions**
+    * Clone the repository into local machine.
+    * We have a data folder, election_badvotes,election_proper_votes_jarupati,election_registered_votes,election_votes.
+    * You can view our selected data from the data folder or through the link we described above.
+    * Each of the remaining folder consists of a mapper and a reducer python file, open your selected folder in your favourite editor.
+    * First run the mapper file using python mapper.py
+    * Next run the reducer using python reducer.py
+    * You can see the output result in the text file you opened for writing.
