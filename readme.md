@@ -63,7 +63,8 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         ABU JUWEI'ID	1443...  
       4.Language: Python  
       5.Chart: Pie chart  
-      ![Average Votes.png](https://bitbucket.org/repo/oLnnya5/images/1917096981-Average%20Votes.png)
+       ![Registered_votes.png](https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/src/db05fa007a4dc0c0564de9acda73a2e6a7eefbc2/Images/Registered_votes.png?at=master)
+      
 
 
   **2.For each settlement_name, what is the average number of votes ?**  
@@ -74,9 +75,10 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         ABU JUWEI'ID	99....  
       3.Reducer Output: 
         ABU JUWEI'ID,108.....  
+        ![Average Votes Output.PNG](https://bitbucket.org/repo/oLnnya5/images/1826388487-Average%20Votes%20Output.PNG)  
       4.Language: Python  
       5.Chart: Bar Chart  
-      ![Registered_votes.png](https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/src/db05fa007a4dc0c0564de9acda73a2e6a7eefbc2/Images/Registered_votes.png?at=master)   
+      ![Average Votes.png](https://bitbucket.org/repo/oLnnya5/images/1917096981-Average%20Votes.png)
       
       
   **3.For each settlement_name in 2013, calculate lowest number of votes?**  
