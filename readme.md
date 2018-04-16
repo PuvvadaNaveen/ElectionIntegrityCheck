@@ -111,9 +111,11 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         úøàáéï à-öàðò(éùå	1346	TARABIN AS-SANI	1	154	54	1	53	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	3	1	0	0	0	0	0	9	0	32	0	0	2	1  
         úøåí	778	TARUM	1	401	306	2	304	1	4	0	0	0	3	1	0	0	5	0	0	3	3	17	101	14	0	88	1	0	0	0	6	0	0	0	45	0	5	1	6  
       2.Mapper Output: 
-        bad_votes 40896  
+        ABU JUWEI'ID	8... 
+        [![mapper.png](https://s7.postimg.cc/546bnhn97/mapper.png)](https://postimg.cc/image/lrxtpzi0n/)
       3.Reducer Output: 
-        Average number of bad votes in israeli election 2013 per settlement is 4 votes  
+        A'SAM	4 ....
+        [![reducer.png](https://s7.postimg.cc/nwi6r36sr/reducer.png)](https://postimg.cc/image/pob5lzq5j/)
       4.Language: Python  
       5.Chart: Line chart
 	![Bad_votes.png](https://bitbucket.org/repo/oLnnya5/images/511561889-Bad_votes.png)
