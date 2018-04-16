@@ -49,25 +49,30 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	2	638	145	1	144	0	2	0	0	0	0	120	0	0	1	1	0	1	0	0	0	0	2	0	0	0	1	0	0	16  
         àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	3	547	102	1	101	0	2	0	0	0	0	73	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	19  
         ......    
-      2.Mapper Output: A'SAM	546  
-                       A'SAM	565  
-                       A'SAM	585  
-                       A'SAM	621....  
-      3.Reducer Output: total  number of registered_voters in each settlement in 2013 is  
-          A'SAM	3611  
-          ABBIRIM	162  
-          ABU  ABDUN	106  
-          ABU GHOSH	3889  
-          ABU JUWEI'ID	1443...  
+      2.Mapper Output:    
+        A'SAM	546  
+        A'SAM	565  
+        A'SAM	585  
+        A'SAM	621....  
+      3.Reducer Output:  
+        total  number of registered_voters in each settlement in 2013 is  
+        A'SAM	3611  
+        ABBIRIM	162  
+        ABU  ABDUN	106  
+        ABU GHOSH	3889    
+        ABU JUWEI'ID	1443...  
       4.Language: Python  
       5.Chart: Pie chart   
 
 
   **2.For each settlement_name, what is the average number of votes ?**  
-      1.Mapper Input: àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	1	690	118	8	110	0	0	3	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	5	0	0	0	0	0	0	94	1	3	0	0	0	2......  
-      2.Mapper Output: ABU JUWEI'ID	118  
-                       ABU JUWEI'ID	99....  
-      3.Reducer Output: ABU JUWEI'ID,108.....  
+      1.Mapper Input: 
+        àáå â'ååééòã (ùáè	967	ABU JUWEI'ID	1	690	118	8	110	0	0	3	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	5	0	0	0	0	0	0	94	1	3	0	0	0	2......  
+      2.Mapper Output: 
+        ABU JUWEI'ID	118  
+        ABU JUWEI'ID	99....  
+      3.Reducer Output: 
+        ABU JUWEI'ID,108.....  
       4.Language: Python  
       5.Chart: Bar Chart  
       ![Average Votes.png](https://bitbucket.org/repo/oLnnya5/images/1917096981-Average%20Votes.png)   
@@ -85,7 +90,8 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         Am Shalem  1  
           ......  
         Yesh Atid 14  
-      3.Reducer Output: Moreshet Avot,Leader, Kalkala, Eretz Hadasha are the parties got lowest number of votes in ABU GHOSH settlement in 2013  
+      3.Reducer Output: 
+        Moreshet Avot,Leader, Kalkala, Eretz Hadasha are the parties got lowest number of votes in ABU GHOSH settlement in 2013  
       4.Language: Python  
       5.Chart: Sorted Bar Chart  
   
@@ -100,7 +106,9 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         ...............................  
         úøàáéï à-öàðò(éùå	1346	TARABIN AS-SANI	1	154	54	1	53	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	3	1	0	0	0	0	0	9	0	32	0	0	2	1  
         úøåí	778	TARUM	1	401	306	2	304	1	4	0	0	0	3	1	0	0	5	0	0	3	3	17	101	14	0	88	1	0	0	0	6	0	0	0	45	0	5	1	6  
-      2.Mapper Output: bad_votes 40896  
-      3.Reducer Output: Average number of bad votes in israeli election 2013 per settlement is 4 votes  
+      2.Mapper Output: 
+        bad_votes 40896  
+      3.Reducer Output: 
+        Average number of bad votes in israeli election 2013 per settlement is 4 votes  
       4.Language: Python  
       5.Chart: Pie chart  
