@@ -10,7 +10,7 @@ for line in s:
     settlement_name, bad_votes = data
     if settlement_name != key:
         if key:
-            r.write(key + '\t' + str(averagevalue)+'\n')
+            r.write(key + ',' + str(averagevalue)+'\n')
 
         key = settlement_name
         value = 0
