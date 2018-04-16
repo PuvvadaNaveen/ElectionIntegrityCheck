@@ -134,7 +134,7 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
     
   **User Instructions**
     * Clone the repository into local machine.  
-    * We have a data folder,election_badvotes,election_proper_votes_jarupati,election_registered_votes,election_votes.  
+    * We have a datafolder,election_badvotes,election_proper_votes_jarupati,election_registered_votes,election_votes.  
     * You can view our selected data from the data folder or through the link we described above.  
     * Each of the remaining folder consists of a mapper and a reducer python file, open your selected folder in your favourite editor.  
     * First run the mapper file using python mapper.py  
