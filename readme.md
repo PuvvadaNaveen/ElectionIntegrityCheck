@@ -1,4 +1,4 @@
-# Election Integrity Check
+﻿# Election Integrity Check
 ### Course Number:44-564  
 ### Design Data Intensive Systems - Section 02
 ## Project Group - 2B
@@ -114,4 +114,5 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
       3.Reducer Output: 
         Average number of bad votes in israeli election 2013 per settlement is 4 votes  
       4.Language: Python  
-      5.Chart: Pie chart  
+      5.Chart: Line chart
+	![bad_Votes.png](https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/src/db05fa007a4dc0c0564de9acda73a2e6a7eefbc2/Images/Bad_votes.png?at=master&fileviewer=file-view-default) 
