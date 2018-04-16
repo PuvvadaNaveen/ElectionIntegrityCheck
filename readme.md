@@ -76,7 +76,7 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         ABU JUWEI'ID,108.....  
       4.Language: Python  
       5.Chart: Bar Chart  
-      ![Registered_votes.png](https://bitbucket.org/repo/oLnnya5/images/1917096981-Registered20%votes.png)   
+      ![Registered_votes.png](https://bitbucket.org/RaghavenderJarupati/electionintegritycheck/src/db05fa007a4dc0c0564de9acda73a2e6a7eefbc2/Images/Registered_votes.png?at=master)   
       
       
   **3.For each settlement_name in 2013, calculate lowest number of votes?**  
