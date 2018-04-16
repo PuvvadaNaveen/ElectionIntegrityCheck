@@ -1,4 +1,4 @@
-# Election Integrity Check
+﻿# Election Integrity Check
 ### Course Number:44-564  
 ### Design Data Intensive Systems - Section 02
 ## Project Group - 2B
@@ -62,7 +62,9 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
         ABU GHOSH	3889    
         ABU JUWEI'ID	1443...  
       4.Language: Python  
-      5.Chart: Pie chart   
+      5.Chart: Pie chart  
+       ![Registered_votes.png](https://bitbucket.org/repo/oLnnya5/images/3611896873-Registered_votes.png)
+      
 
 
   **2.For each settlement_name, what is the average number of votes ?**  
@@ -71,11 +73,13 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
       2.Mapper Output: 
         ABU JUWEI'ID	118  
         ABU JUWEI'ID	99....  
+        ![Average Votes mapper output.PNG](https://bitbucket.org/repo/oLnnya5/images/472197307-Average%20Votes%20mapper%20output.PNG)  
       3.Reducer Output: 
         ABU JUWEI'ID,108.....  
+        ![Average Votes Output.PNG](https://bitbucket.org/repo/oLnnya5/images/1826388487-Average%20Votes%20Output.PNG)  
       4.Language: Python  
       5.Chart: Bar Chart  
-      ![Average Votes.png](https://bitbucket.org/repo/oLnnya5/images/1917096981-Average%20Votes.png)   
+      ![Average Votes.png](https://bitbucket.org/repo/oLnnya5/images/1917096981-Average%20Votes.png)
       
       
   **3.For each settlement_name in 2013, calculate lowest number of votes?**  
@@ -111,4 +115,5 @@ Link: https://www.kaggle.com/itamarmushkin/israeli-elections-2015-2013/data
       3.Reducer Output: 
         Average number of bad votes in israeli election 2013 per settlement is 4 votes  
       4.Language: Python  
-      5.Chart: Pie chart  
+      5.Chart: Line chart
+	![Bad_votes.png](https://bitbucket.org/repo/oLnnya5/images/511561889-Bad_votes.png)
